@@ -1,0 +1,61 @@
+body{
+
+	font-family: "Comic Sans";
+	color: #B22222;
+	background-image: url("../images/explosion.gif");
+    background-position: right-top;
+	background-size: ;
+	
+}
+p{	color:#0000ff;
+	font-size: 2em;
+	text-align: center;
+	font-weight: none;
+	border-style: inset;
+	border-color: #ff0040;
+	background-color: #ffcc00
+	
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+	padding:1px;
+	border: 1px solid #021a40;
+   background-color:#ff0;
+}
+h1 {
+	color:#400080;
+	font-size: 5em;
+	text-align: center;
+	font-weight: none;
+	border-style: inset;
+	border-color: #ff0040;
+	background-color: #bf00ff;
+}
+a{
+	font-size: 35px;
+	border-style: outset;
+	color:  red;
+	border-color: red;
+	border-width: 5px;
+	background-color: #aaff00;
+}
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#a19fcd; 
+}
+h2 {
+	color:white;
+	text-align: center;
+	font-weight: none;
+	border-style: inset;
+	border-color: violet;
+	background-color: blue;
+}
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
